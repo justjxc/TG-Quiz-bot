@@ -8,6 +8,6 @@ Telegram Quiz Bot is a chatbot built for Telegram that allows users to engage in
 * Take the Quiz: The bot will display a series of questions one by one, each with multiple choice answers. Choose the correct answer by clicking the corresponding button. After answering all the questions, the bot will provide feedback on your performance.
 
 # Bot Commands
-* `/start`: Start the bot.
+* `/start`: Begin the interaction.
 * `/quiz`: Start the quiz.
 * `/stats`: View the Statistics of players.
